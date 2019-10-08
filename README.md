@@ -1,3 +1,3 @@
 # BeatSaber-Tournament
  
-This project is made with google sheets and a google form in order to take in data about scores, what song the user played, to generate a scoring system and leaderboard.
+This project is made with google sheets and a google form. Google form takes in data from users and the data is then analized in order to calculate scores for each player and generate leaderboards. It is easy to change the songs and add new players just by adding their names to the forms. 
